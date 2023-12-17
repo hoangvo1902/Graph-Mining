@@ -16,15 +16,14 @@ I've compiled a comprehensive overview of graph mining, covering various topics:
 - Link Prediction
 - Embedding Graphs
 
-## Research Topics
+## Research Interests
 
-My research encompasses various areas, including:
+my current research interests include
 
-- Deep Learning for Graphs
-- Graph Summarization
-- Recommendation Systems
-- Anomaly Detection
-- Large-Sized Graphs
+- Graph Mining
+- High Utility Pattern Mining
+- Data Mining
+- Big Data Analytics
 
 Feel free to explore the content and contribute to the advancement of knowledge in these exciting research areas!
 Please contact me via email if you want to collaborate on research with me or if you have any questions.
