@@ -18,7 +18,7 @@ I've compiled a comprehensive overview of graph mining, covering various topics:
 
 ## Research Interests
 
-my current research interests include
+My current research interests include:
 
 - Graph Mining
 - High Utility Pattern Mining
@@ -28,4 +28,5 @@ my current research interests include
 Feel free to explore the content and contribute to the advancement of knowledge in these exciting research areas!
 Please contact me via email if you want to collaborate on research with me or if you have any questions.
 My email address: vovanhoang19022002@gmail.com
+
 
