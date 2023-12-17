@@ -1,37 +1,46 @@
-# Graph Mining
+# Graph Mining and High Utility Pattern Mining Research
 
-Graph Mining and High Utility Pattern Mining are my research interests. This repository consists of foundational knowledge acquired during the initial stages of the research process.
+Welcome to the Graph Mining and High Utility Pattern Mining repository! This collection represents foundational knowledge accumulated during the preliminary phases of my research endeavors.
 
-## Overview
+## Research Overview
 
-I've compiled a comprehensive overview of graph mining, covering various topics:
+This repository encompasses a comprehensive exploration of graph mining, addressing a spectrum of topics:
 
 - Introduction to Graph Data Mining, Algorithms, and Applications
-- Reviewing knowledge related to graphs and data mining
-- Patterns in static and dynamic graphs; generating graphs
-- Indexing Graph and Ranking
-- Mining Graph Patterns
-- Graph Classification
-- Clustering and Community Detection
-- Link Prediction
-- Embedding Graphs
+- Review of pertinent knowledge in graph theory and data mining
+- Analysis of patterns in both static and dynamic graphs, along with graph generation
+- Indexing and ranking techniques in graph data
+- Graph pattern mining methodologies
+- Graph classification strategies
+- Clustering and Community Detection in graphs
+- Link Prediction techniques
+- Graph Embedding methods
 
 ## Research Interests
 
-My current research interests include:
+My ongoing research interests are centered around:
 
 - Graph Mining
 - High Utility Pattern Mining
 - Data Mining
 - Big Data Analytics
 
-Feel free to explore the content and contribute to the advancement of knowledge in these exciting research areas!
-Please contact me via email if you want to collaborate on research with me or if you have any questions.
-My email address: vovanhoang19022002@gmail.com
+Feel free to delve into the content and contribute to the advancement of knowledge in these dynamic research domains! For collaboration inquiries or questions, please reach out via email.
 
-## Thank you
+**Email:** vovanhoang19022002@gmail.com
 
-I want to extend my deepest gratitude to the professors and lecturers at the University of Science, Vietnam National University Ho Chi Minh City, such as Professor. Lê Hoài Bắc, Teacher. Lê Ngọc Thành, Teaching Assistant. Lê Nhựt Nam, and Teaching Assistant. Trần Quốc Huy. Thank you for imparting a wealth of valuable lessons, meaningful knowledge, and guidance during my undergraduate studies in Computer Science with a specialization in Data Science at HCMUS. Your dedication has played a crucial role in shaping my academic journey.
+## Acknowledgments
 
-- If you find what I share helpful, please give me a star so that I can have more motivation.
+I express my sincere gratitude to the esteemed professors and lecturers at the University of Science, Vietnam National University Ho Chi Minh City, including Professor Lê Hoài Bắc, Teacher Lê Ngọc Thành, Teaching Assistant Lê Nhựt Nam, and Teaching Assistant Trần Quốc Huy. Their invaluable lessons, profound knowledge, and guidance during my undergraduate studies in Computer Science with a specialization in Data Science at HCMUS have significantly shaped my academic journey.
+
+## How to Contribute
+
+Your contributions are highly welcomed! Please feel free to open issues, submit pull requests, or provide suggestions for improvement.
+
+## Thank You
+
+If you find the content helpful or valuable, kindly consider giving the repository a star. Your support is a source of motivation for my continued efforts.
+
+Thank you for exploring my research repository!
+
 
