@@ -31,6 +31,6 @@ My email address: vovanhoang19022002@gmail.com
 
 ## Thank you
 
-- I want to extend my deepest gratitude to the professors and lecturers at the University of Science, Vietnam National University Ho Chi Minh City, such as Professor Lê Hoài Bắc, Teacher. Lê Ngọc Thành, Teaching Assistant Lê Nhựt Nam, and Teaching Assistant Trần Quốc Huy. Thank you for imparting a wealth of valuable lessons, meaningful knowledge, and guidance during my undergraduate studies in Computer Science with a specialization in Data Science at HCMUS. Your dedication has played a crucial role in shaping my academic journey.
+I want to extend my deepest gratitude to the professors and lecturers at the University of Science, Vietnam National University Ho Chi Minh City, such as Professor Lê Hoài Bắc, Teacher. Lê Ngọc Thành, Teaching Assistant Lê Nhựt Nam, and Teaching Assistant Trần Quốc Huy. Thank you for imparting a wealth of valuable lessons, meaningful knowledge, and guidance during my undergraduate studies in Computer Science with a specialization in Data Science at HCMUS. Your dedication has played a crucial role in shaping my academic journey.
 
 
