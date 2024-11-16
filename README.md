@@ -31,7 +31,7 @@ Feel free to delve into the content and contribute to the advancement of knowled
 
 ## Acknowledgments
 
-I express my sincere gratitude to the esteemed professors and lecturers at the University of Science, Vietnam National University Ho Chi Minh City, including Professor Lê Hoài Bắc, Teacher Lê Ngọc Thành, Teaching Assistant Lê Nhựt Nam, and Teaching Assistant Trần Quốc Huy. Their invaluable lessons, profound knowledge, and guidance during my undergraduate studies in Computer Science with a specialization in Data Science at HCMUS have significantly shaped my academic journey.
+I express my sincere gratitude to the esteemed professors and lecturers at the University of Science, Vietnam National University Ho Chi Minh City, including Professor Lê Hoài Bắc, PhD Lê Ngọc Thành, Teaching Assistant Lê Nhựt Nam, and Teaching Assistant Trần Quốc Huy. Their invaluable lessons, profound knowledge, and guidance during my undergraduate studies in Computer Science with a specialization in Data Science at HCMUS have significantly shaped my academic journey.
 
 ## How to Contribute
 
