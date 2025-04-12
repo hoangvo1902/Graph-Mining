@@ -27,7 +27,7 @@ My ongoing research interests are centered around:
 
 Feel free to delve into the content and contribute to the advancement of knowledge in these dynamic research domains! For collaboration inquiries or questions, please reach out via email.
 
-**Email:** vovanhoang19022002@gmail.com
+**Email:** hoangvv.analyticsconsultant@gmail.com
 
 ## Acknowledgments
 
